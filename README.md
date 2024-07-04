@@ -18,6 +18,8 @@ The Student Performance Dataset is designed to examine factors influencing acade
 ### Dataset Purpose
 The dataset aims to provide insights into how variables such as studying hours, previous scores, extracurricular activities, sleep patterns, and practice with sample question papers relate to student performance. It is a synthetic dataset created for illustrative purposes, offering a platform for researchers and data analysts to explore educational factors and their impacts.
 
+The data can be accessed from[Student Performance Data-set](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression), which is a public resource.
+
 ## Objective
 The objective of this project is to predict the performance of students based on the extracted features provided in `Student_Performance.csv`.
 
