@@ -64,3 +64,6 @@ Identified Support Vector Regression (SVR) as the best-performing model.
 - **For Predictive Tasks:**
   - **Interpretability and Simplicity:** Linear regression-based models (including Ridge, Lasso, ElasticNet, and SVR) are suitable choices due to their high accuracy and ease of interpretation.
   - **Complex Relationships:** If capturing more complex relationships or benefiting from ensemble learning is necessary, Gradient Boosting Regression is recommended for its robust performance.
+
+## License
+[MIT License](LICENSE)
